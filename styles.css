@@ -1,0 +1,63 @@
+body {
+    font-family: 'Arial', serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(250, 226, 194);
+}
+body a {
+  font-size: large;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+header {
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 2em 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+p {
+    text-align: center;
+}
+
+section {
+    padding: 4em 0;
+}
+
+section h2 {
+    text-align: center;
+}
+
+.project {
+    margin-top: 2em;
+}
+
+.project img {
+    max-width: 100%;
+    height: auto;
+}
+.certificados img {
+    width: 300px;
+    height: auto;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+  
+}
+
+#contact a {
+    text-align: center;
+}
